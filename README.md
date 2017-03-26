@@ -1,6 +1,6 @@
 # avs_study
 
-## links
+# links
 
 ### python
 * https://github.com/ewenchou/alexa-client
@@ -16,6 +16,9 @@
 ### java
 * https://github.com/armzilla/amazon-echo-ha-bridge
 
-## links repo
+# links repo
 * https://github.com/miguelmota/awesome-amazon-echo
+
+# example projects
+* https://ewenchou.github.io/blog/2016/10/16/putting-it-all-together/
 
