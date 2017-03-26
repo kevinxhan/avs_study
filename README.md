@@ -6,6 +6,7 @@
 * https://github.com/ewenchou/alexa-client
 * https://github.com/robladbrook/simple-avs
 * https://github.com/sammachin/AlexaPi-Dev
+* https://github.com/nicholasjconn/python-alexa-voice-service
 
 ### ios
 * https://github.com/grimlockrocks/alexa-swift3-sample-app
