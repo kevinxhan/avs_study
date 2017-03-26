@@ -6,10 +6,10 @@
 https://github.com/ewenchou/alexa-client
 https://github.com/robladbrook/simple-avs
 
-###ios
+### ios
 https://github.com/grimlockrocks/alexa-swift3-sample-app
 
-###windows
+### windows
 https://github.com/weihao042122/alexa-win32
 
 ### java
